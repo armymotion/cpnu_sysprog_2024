@@ -1,3 +1,3 @@
-# sysprog_2024
+# Repo description
 
-test
+This repo is created for education purpose.
