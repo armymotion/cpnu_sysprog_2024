@@ -1,0 +1,59 @@
+[33mcommit 00c8c9297118dcf75b03767444ddacdb645cceba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mki-233-Art2233-lab1[m[33m)[m
+Author: abiluba9 <abiluba9@gmali.com>
+Date:   Mon Sep 16 12:46:10 2024 +0300
+
+    Update KI-233 Art233 in index.html
+
+[33mcommit 2c314f7ab92fce82d4871a8a46648bf43118c268[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Artem Mylytsia <70771770+armymotion@users.noreply.github.com>
+Date:   Sun Sep 8 14:15:20 2024 +0300
+
+    create dedicated folders (#4)
+
+[33mcommit 12dc2dfc4d06fbcce61e5706365de707563ada61[m
+Author: Artem Mylytsia <70771770+armymotion@users.noreply.github.com>
+Date:   Sun Sep 8 14:07:21 2024 +0300
+
+    prepare repo for students (#3)
+
+[33mcommit a7e7bf40674f885bbdb4a305108e1a9acc456d05[m
+Merge: a74a96e c064d5f
+Author: armymotion <70771770+armymotion@users.noreply.github.com>
+Date:   Sun Sep 8 13:25:00 2024 +0300
+
+    Merge pull request #2 from armymotion/task-2
+    
+    chore: add codeowners
+
+[33mcommit c064d5fbd75c428ee185c37eddb438ddfe014e88[m[33m ([m[1;31morigin/task-2[m[33m)[m
+Author: Artem Mylytsia <amylytsia@gmail.com>
+Date:   Sun Sep 8 13:19:15 2024 +0300
+
+    chore: add codeowners
+
+[33mcommit a74a96eacfea26e4894ecfcef538b6caa8eb2a92[m
+Merge: 222065b 1d0d230
+Author: armymotion <70771770+armymotion@users.noreply.github.com>
+Date:   Sat Sep 7 23:30:30 2024 +0300
+
+    Merge pull request #1 from armymotion/test1
+    
+    updated readme 1
+
+[33mcommit 1d0d23062cacb3d1eccf3c0c304c2c6534892591[m
+Author: Artem Mylytsia <amylytsia@gmail.com>
+Date:   Sat Sep 7 23:25:23 2024 +0300
+
+    updated readme 1
+
+[33mcommit 222065bb7d99eec97036b62881ac9ab791e9ec31[m
+Author: armymotion <70771770+armymotion@users.noreply.github.com>
+Date:   Sat Sep 7 22:16:51 2024 +0300
+
+    Delete LICENSE
+
+[33mcommit 91251dc53140fecb5647c040b101dcc9544127ef[m
+Author: armymotion <70771770+armymotion@users.noreply.github.com>
+Date:   Sat Sep 7 22:15:12 2024 +0300
+
+    Initial commit
