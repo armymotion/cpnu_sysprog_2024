@@ -3,6 +3,7 @@
 .vscode
 
 # Ігнорування системних файлів
+.DS_Store
 .vs
 .project
 
