@@ -1,16 +1,9 @@
 # Ігнорування конфігураційних файлів IDE
-<<<<<<< HEAD
+
 .idea/
 .vscode/
 .vs/
 
-=======
-ki-231-zbrnnn-lab1
-.vs
-.idea
-.vscode
-main
->>>>>>> ccce95ca0c75a078864894fddcea0ffbebfa6ae1
 
 # Ігнорування системних файлів
 .DS_Store
