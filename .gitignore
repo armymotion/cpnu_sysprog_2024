@@ -1,10 +1,16 @@
 # Ігнорування конфігураційних файлів IDE
-.idea/
-.vscode/
-.vs/
+ki-231-zbrnnn-lab1
+.vs
+.idea
+.vscode
+main
 
 # Ігнорування системних файлів
 .DS_Store
+.vs
+.project
+
+
 Thumbs.db
 
 # Ігнорування тимчасових файлів
