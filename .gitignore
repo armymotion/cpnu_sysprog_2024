@@ -1,0 +1,7 @@
+*.log
+*.bash_history
+*.bashrc
+*.motd_shown
+*.profile
+*.o
+
