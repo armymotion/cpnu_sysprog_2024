@@ -1,9 +1,7 @@
 # Ігнорування конфігураційних файлів IDE
 .idea
-.vscode
 .vs
-.vscode/
-
+.vscode
 .project
 
 # Ігнорування системних файлів
@@ -23,4 +21,6 @@ Thumbs.db
 ki-231-Dank0-0-lab1
 *.exe
 #*.exe
-main
+
+# Ігнорування системних файлів
+.DS_Store
