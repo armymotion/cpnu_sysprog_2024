@@ -1,0 +1,3 @@
+[user]
+name = ivancenkozena
+email = ivancenkozena95@example.com
